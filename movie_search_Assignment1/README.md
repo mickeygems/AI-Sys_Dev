@@ -27,7 +27,7 @@ The project builds a semantic search engine for movie plots. Given a query (e.g.
 
 4. Run the Jupyter notebook:
    ```bash
-   jupyter notebook movie_search_solution.ipynb
+   jupyter notebook movie_search.ipynb
    ```
 
 ## Testing
