@@ -38,21 +38,6 @@ To verify correctness, run the included unit tests:
 python -m unittest tests/test_movie_search.py -v
 ```
 
-This will check:
-- Output format
-- Top-N results length
-- Similarity ordering
-- Relevance of search results
-
-## Usage
-
-You can test the function directly inside the notebook:
-
-```python
-search_movies("spy thriller in Paris", top_n=3)
-```
-
-
 ---
 
 ## File Structure
