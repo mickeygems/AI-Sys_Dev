@@ -9,7 +9,7 @@ The project builds a semantic search engine for movie plots. Given a query (e.g.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/movie-search-assignment.git
+   git clone https://github.com/mickeygems/movie-search-assignment.git
    cd movie-search-assignment
    ```
 
@@ -52,13 +52,6 @@ You can test the function directly inside the notebook:
 search_movies("spy thriller in Paris", top_n=3)
 ```
 
-Example output:
-
-| title       | plot                                                     | similarity |
-|-------------|----------------------------------------------------------|-------------|
-| Spy Movie   | A spy navigates intrigue in Paris to stop a terrorist plot. | 0.89 |
-| Romance in Paris | A couple falls in love in Paris under romantic circumstances. | 0.76 |
-| Action Flick| A high-octane chase through New York with explosions.     | 0.55 |
 
 ---
 
