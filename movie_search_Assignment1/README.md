@@ -53,3 +53,5 @@ python -m unittest tests/test_movie_search.py -v
 ```
 
 ---
+https://colab.research.google.com/drive/1WThE3ATJV5iAz2ju4_BdgH3eLLRnNf0i?usp=sharing (movie_search solution notebook).
+https://colab.research.google.com/drive/1W4jxojg3WmllHUAKjSteJqLWH_Z3KCDV?usp=sharing (test_movie_search solution notebook).
